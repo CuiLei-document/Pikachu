@@ -61,7 +61,7 @@ const player = {
      normal:()=>{
         player.pause()
         player.time = 100
-        ayer.play()
+        player.play()
     },
      fast :()=>{
         player.pause()
